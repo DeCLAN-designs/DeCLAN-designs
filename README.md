@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DeCLAN-Designs
-- 👀 I’m interested in Web Development and Cyber Security(Ethical Hacking)
-- 🌱 I’m currently learning php and its framework(Laravel) JS and its libraries including its framework(React.js)
+- 👋 Hi, I’m @devMusijo
+- 👀 I’m interested in Web Development,Systems,App Systems and Cyber Security(Ethical Hacking)
+- 🌱 I’m currently JS and its libraries including its framework(React.js)
 - 💞️ I’m looking to collaborate on Linux and Windows(Docker and WSL)
 - 📫 How to reach me @de.clandesigns4@gmail.com
 - 😄 Pronouns: He/Him
